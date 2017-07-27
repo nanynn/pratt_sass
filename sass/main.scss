@@ -1,4 +1,4 @@
 @import 'assets/stylesheet/bootstrap.min.css';
 @import '_variables.scss';
 @import '_mixin.scss';
-@import '_bases.scss';
+@import '_bases.scss'; /*base siempre va al final*/
